@@ -1,0 +1,73 @@
+{
+  "SUV": [
+    {
+      "model": "Highlander XSE",
+      "features": [
+        "All-Wheel Drive",
+        "Heated Seats",
+        "Sunroof",
+        "7 Seats"
+      ]
+    },
+    {
+      "model": "RAV4 Hybrid",
+      "features": [
+        "Fuel Efficient",
+        "Apple CarPlay",
+        "Safety Sense 2.0"
+      ]
+    },
+    {
+      "model": "4Runner TRD Pro",
+      "features": [
+        "Off-road Capability",
+        "Crawl Control",
+        "Multi-Terrain Select"
+      ]
+    }
+  ],
+  "Sedan": [
+    {
+      "model": "Camry SE",
+      "features": [
+        "Sport Tuned Suspension",
+        "Leather Trim",
+        "Lane Departure Alert"
+      ]
+    },
+    {
+      "model": "Corolla LE",
+      "features": [
+        "Compact",
+        "High MPG",
+        "Radar Cruise Control"
+      ]
+    },
+    {
+      "model": "Prius Prime",
+      "features": [
+        "Plug-in Hybrid",
+        "EV Mode",
+        "11.6-in Touchscreen"
+      ]
+    }
+  ],
+  "Truck": [
+    {
+      "model": "Tacoma TRD Off-Road",
+      "features": [
+        "4x4",
+        "Locking Rear Differential",
+        "Bilstein Shocks"
+      ]
+    },
+    {
+      "model": "Tundra Capstone",
+      "features": [
+        "i-FORCE MAX Hybrid",
+        "Luxury Interior",
+        "Panoramic Roof"
+      ]
+    }
+  ]
+}

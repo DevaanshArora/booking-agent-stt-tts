@@ -1,0 +1,15 @@
+# Voice & Audio
+sounddevice
+soundfile
+numpy
+
+# LLM & Agents
+langchain
+langchain-openai
+langgraph
+python-dotenv
+openai
+
+# UI
+streamlit
+pandas

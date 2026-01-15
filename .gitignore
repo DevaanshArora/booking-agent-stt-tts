@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Environment Variables (CRITICAL)
+.env
+
+# Mac OS
+.DS_Store
+
+# Audio Files (Runtime)
+input.wav
+output.wav
+
+# Data (Runtime)
+# Keep cars.json as seed data, but ignore local bookings
+data/bookings.json
+
+# IDEs
+.vscode/
+.idea/
